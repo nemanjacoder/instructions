@@ -229,10 +229,6 @@ Let's make a change to the project to see how pull requests are validated.
 
   This changes the lambda function so that it no longer coerces variables into integers.  (As a result, the unit tests will fail).
 
-* On your GitHub repository, scroll down to the README section (below the files list).  Then click the pencil on the right side of the README's header.  This will let you start editing the README.
-
-  ![edit readme](images/7-editreadme.png)
-
 * Scroll down to the bottom of the page to commit this change.  In the first text field, the commit title, enter "Update unit test".
 
   Select the radio button that says "Create a **new branch** for this commit and start a pull request."
