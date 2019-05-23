@@ -24,7 +24,7 @@ You can [join GitHub](http://github.com/join) to get started.
 
 * If you don't have a Microsoft account, create a free account before you begin.  You can [create a Microsoft account](https://www.microsoft.com/account) to get started.
 
-## 1. Fork the Microsoft cloud scanner project
+## 1. Fork the Python project
 
 To demonstrate a continous integration build and test setup, we'll use a
 small, modern Python application with unit tests.  We'll make a copy of this project, or a "fork", into our own GitHub repository so that we can work on it freely, without impacting the original open source  project.
@@ -35,7 +35,7 @@ small, modern Python application with unit tests.  We'll make a copy of this pro
 
   ![sign in](images/1-signin.png)
 
-  When you've signed in, you'll be returned to the Microsoft Cloud Scanner repository.
+  When you've signed in, you'll be returned to the Python repository.
 
 * Click Fork in the top right corner of the repository page.
 
