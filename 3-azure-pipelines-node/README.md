@@ -28,7 +28,7 @@ You can [join GitHub](http://github.com/join) to get started.
 
 To demonstrate a continous integration build and test setup, we'll use a node.js application with mocha unit tests.  We'll make a copy of this project, or a "fork", into our own GitHub repository so that we can work on it freely, without impacting the original open source  project.
 
-* Open your browser and navigate to [https://github.com/azure-pipelines-demos/node](https://github.com/azure-pipelines-demos/node).
+* Open your browser and navigate to [https://github.com/azure-devops-labs/node](https://github.com/azure-devops-labs/node).
 
 * If you haven't already, sign in to GitHub.
 
