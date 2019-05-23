@@ -159,8 +159,8 @@ Azure Pipelines can examine your repository so that it can try to determine what
         displayName: 'Test'
         inputs:
           actions: 'test'
-          configuration: '$(TestConfiguration)'
-          sdk: '$(TestSDK)'
+          configuration: 'Debug'
+          sdk: 'iphonesimulator'
           scheme: 'BeastMatchTests'
           destinationPlatformOption: 'iOS'
           publishJUnitResults: true

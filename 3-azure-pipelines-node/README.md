@@ -130,7 +130,7 @@ Azure Pipelines can examine your repository so that it can try to determine what
 
 * Azure Pipelines will now analyze your repository to determine what language is it, and how it should build it.  Once it's finished with the examination, it will present you with some choices.  Select "node.js" from the options.
 
-  ![TODO](images/5-python.png)
+  ![TODO](images/5-node.png)
 
 * Now, Azure Pipelines will show you the build definition.  Build definitions are written in the YAML language and checked in to the repository, right next to the code they build.  This is a technique called "configuration as code" and is helpful since it versions the steps to build the code alongside the code itself.
 
