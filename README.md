@@ -35,14 +35,3 @@ In this lab you will learn to:
 3. Validate pull requests using GitHub Checks and Azure Pipelines
 
 [Go to lab](3-azure-pipelines-node/README.md) | Duration: 10 minutes
-
-Configure continuous integration builds for a .NET Core project hosted in GitHub
------------------------------------------------------------------------------
-
-In this lab you will learn to:
-
-1. Set up Azure Pipelines to build and test a .NET Core project hosted in GitHub.
-2. Customize the build by configuring the YAML build definition.
-3. Validate pull requests using GitHub Checks and Azure Pipelines
-
-[Go to lab](4-azure-pipelines-dotnet/README.md) | Duration: 10 minutes
